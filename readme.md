@@ -12,7 +12,7 @@ Most of what I build falls into three areas: applied ML for scientific problems,
 
 ### Some of my work
 
-**Scientific ML** : [Bandgap Prediction for Double Halide Perovskites](https://github.com/breadDDDDD/Bandgap-Prediction-Double-Halide-Perovskit), my thesis project applying ML models to predict bandgaps.
+**ML on Material Science** : [Bandgap Prediction for Double Halide Perovskites](https://github.com/breadDDDDD/Bandgap-Prediction-Double-Halide-Perovskit), my thesis project applying ML models to predict bandgaps.
 
 **LLMs and NLP** : [SQLtoText-Qwen-Finetune](https://github.com/breadDDDDD/SQLtoText-Qwen-Finetune) fine-tunes Qwen2.5-Coder-1.5B to turn plain-language questions into executable SQLite, so non-technical teams can pull data without writing SQL. [kibo](https://github.com/breadDDDDD/kibo) is a conversational spare-part query and tracking assistant for mechanic workshops. [SentimentAnalysis](https://github.com/breadDDDDD/SentimentAnalysis) covers 139k+ Indonesian Play Store reviews with lexicon labeling and a Random Forest / LSTM benchmark.
 
