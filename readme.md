@@ -20,7 +20,7 @@ Most of what I build falls into three areas: applied ML for scientific problems,
 
 **Forecasting and recommenders** : [Time-Forecast-Stock-BBCA](https://github.com/breadDDDDD/Time-Forecast-Stock-BBCA) fine-tunes Amazon's Chronos on BBCA (IDX) closing prices, and [REC-ANIME](https://github.com/breadDDDDD/REC-ANIME) is an anime recommendation model.
 
-There's plenty more scattered around my [repositories](https://github.com/breadDDDDD?tab=repositories) and my [Hugging Face profile](https://huggingface.co/SkibidiBreaddd), have a look around. For my experience and background, my [portfolio](https://portofolio-of-geervan.vercel.app/) has the full picture.
+There's plenty more scattered around my [repositories](https://github.com/breadDDDDD?tab=repositories) and my [Hugging Face profile](https://huggingface.co/SkibidiBreaddd), have a look around. For my experience and background, my [portfolio](https://www.geervan.my.id/) has the full picture.
 
 ### Tools I reach for
 
